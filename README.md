@@ -96,8 +96,11 @@ Este projeto busca demonstrar como a formação técnica e tecnológica possui p
 * Alan Douglas Fagundes da Silva
 
 Curso: **Tecnologia em Manutenção de Aeronaves**
+
 Instituição: **FATEC São José dos Campos**
+
 4º Semestre - 01/2026
+
 ---
 
 ## 📖 Referências
